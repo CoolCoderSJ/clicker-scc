@@ -1,0 +1,15 @@
+#clicker {
+    height: 200px;
+    width: 200px;
+    font-size: 45px;
+    background-color: blue;
+    color: white;
+    transform: rotate(220deg);
+    margin-top: 45px;
+    font-family: fantasy;
+    border-radius: 50%;
+}
+
+#clicker:active {
+    background-color: red;
+}
